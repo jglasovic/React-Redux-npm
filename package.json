@@ -1,6 +1,6 @@
 {
   "name": "jglasovic-react-redux-app",
-  "version": "1.0.4",
+  "version": "1.0.9",
   "description": "Create react-redux app start setup",
   "main": "index.js",
   "directories": {
